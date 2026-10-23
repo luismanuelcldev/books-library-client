@@ -50,7 +50,7 @@ src/
 
 ## Architecture
 
-![Books Library Architecture](docs/books-library-architecture.png)
+![Books Library Architecture](docs/Books%20Library%20Architecture%20Technical%20Test.png)
 
 *End-to-end view of the technical test: React client, .NET backend with Clean Architecture and external FakeRestAPI.*
 
