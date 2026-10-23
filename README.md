@@ -48,6 +48,12 @@ src/
 - `features/authors`: Author pages, components and services
 - `shared`: API client, shared components and types
 
+## Architecture
+
+![Books Library Architecture](docs/books-library-architecture.png)
+
+*End-to-end view of the technical test: React client, .NET backend with Clean Architecture and external FakeRestAPI.*
+
 ## Requirements
 
 - Node.js 20+
